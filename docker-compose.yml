@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  jsencryptor:
+    container_name: jsencryptor
+    image: jsencryptor
+    build: ./
